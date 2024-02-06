@@ -1,1 +1,6 @@
-https://iptv.b2og.com/fmml_ipv6.m3u
+#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/mgtv.xml"
+#EXTINF:-1 tvg-id="hn01" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/hnjs.png" group-title="湖南",湖南经视
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPWMxOGQxNjJlYWZjYWZlMGVhNjFkMTMxYmQwM2Y2NTJiJmVzPTE3MDcxOTkyMDEmdXVpZD1lMmI5NzU2N2UzMzFjMTQ1ZGVhNzVmYzNhOGJlNWMyOS03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
+#EXTINF:-1 tvg-id="hn02" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/hnds.png" group-title="湖南",湖南都市
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPTFlYzEzYmFkYzkyOTAxMTQzMDFlNzAwODJkY2Q1MDg4JmVzPTE3MDcxOTkyMDEmdXVpZD0wMTU1Zjk4MzRiMzZkY2Y0MWRkYjZkOGZjMzc4ZjQ3ZS03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/HNDSMPP360.m3u8
+#EXTINF:-1 tvg-id="hn03" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/hnd
