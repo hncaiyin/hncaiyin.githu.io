@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-id="B36" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" group-title="所有频道",康巴卫视
+#EXTINF:-1 tvg-id="B36" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" ,康巴卫视
 http://175.11.193.156:7000/udp/239.76.245.115:1234
-#EXTINF:-1 tvg-id="A88" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" group-title="所有频道",江西卫视
+#EXTINF:-1 tvg-id="A88" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" ,江西卫视
 http://175.11.193.156:7000/udp/239.76.245.116:1234
 #EXTINF:-1 ,湖南
 http://42.5.185.189:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -20,15 +20,15 @@ http://42.49.189.17:9008/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://42.49.189.17:9008/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南电视剧
 http://118.253.0.237:2023/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南电视台
+#EXTINF:-1 ,湖南电视台
 http://118.253.0.237:2023/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南经视
+#EXTINF:-1 ,湖南经视
 http://118.253.0.237:2023/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南经视
+#EXTINF:-1 ,湖南经视
 http://42.49.189.17:9008/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南都市
+#EXTINF:-1 ,湖南都市
 http://113.218.218.97:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南都市
+#EXTINF:-1 ,湖南都市
 http://118.253.0.237:2023/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南都市
+#EXTINF:-1 ,湖南都市
 http://42.49.189.17:9008/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
