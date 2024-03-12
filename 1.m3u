@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-id="B36" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" ,康巴卫视
-http://175.11.193.156:7000/udp/239.76.245.115:1234
+
 #EXTINF:-1 tvg-id="A88" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" ,江西卫视
 http://175.11.193.156:7000/udp/239.76.245.116:1234
 #EXTINF:-1 ,湖南
