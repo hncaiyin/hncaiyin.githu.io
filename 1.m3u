@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTFlYWVjZGFkOWI3NzVlNTJhODhmZmJkMzQyODFjYmQyJmVzPTE3MDE3Njk1MDgmdXVpZD02YWFhN2YzOGMxNDM3ZmFmMWQ1NzQwMWM5ZmMyYjAzOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
-http://222.240.82.92:9901/tsfile/live/1000_1.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWRjOTQ2ZDJjMzRiOTA4M2YxOWZjYTJhNDhiY2MwMDMxJmVzPTE3MDE5NDkzNTMmdXVpZD00MjI1YTVhMTNmYjY5ZTRiYzgxMjMzMDdjMDA0NTE5NC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视高清",CCTV-3 综艺
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
