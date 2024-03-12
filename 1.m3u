@@ -1,12 +1,3 @@
-湖南卫视FHD,http://175.11.193.156:7000/udp/239.76.245.115:1234
-湖南经视FHD,http://175.11.193.156:7000/udp/239.76.245.116:1234
-湖南都市FHD,http://175.11.193.156:7000/udp/239.76.245.117:1234
-湖南电视剧FHD,http://175.11.193.156:7000/udp/239.76.245.118:1234
-湖南电影FHD,http://175.11.193.156:7000/udp/239.76.245.119:1234
-湖南娱乐FHD,http://175.11.193.156:7000/udp/239.76.245.121:1234
-湖南国际FHD,http://175.11.193.156:7000/udp/239.76.245.124:1234
-湖南公共FHD,http://175.11.193.156:7000/udp/239.76.245.123:1234
-
 #EXTINF:-1 tvg-id="A01" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" 
 http://175.11.193.156:7000/udp/239.76.245.115:1234
 #EXTINF:-1 tvg-id="A02" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" 
