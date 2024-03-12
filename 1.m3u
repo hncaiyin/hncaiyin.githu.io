@@ -2,23 +2,23 @@
 http://175.11.193.156:7000/udp/239.76.245.115:1234
 #EXTINF:-1 tvg-id="A88" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" group-title="所有频道",江西卫视
 http://175.11.193.156:7000/udp/239.76.245.116:1234
-#EXTINF:-1 group-title="所有频道",湖南
+#EXTINF:-1 ,湖南
 http://42.5.185.189:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南公共
+#EXTINF:-1 ,湖南公共
 http://118.253.0.237:2023/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南娱乐
+#EXTINF:-1 ,湖南娱乐
 http://118.253.0.237:2023/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南娱乐
+#EXTINF:-1 ,湖南娱乐
 http://42.49.189.17:9008/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南爱晚
+#EXTINF:-1 ,湖南爱晚
 http://42.49.189.17:9008/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南电影
+#EXTINF:-1 ,湖南电影
 http://118.253.0.237:2023/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南电影
+#EXTINF:-1 ,湖南电影
 http://42.49.189.17:9008/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南电视剧
+#EXTINF:-1 ,湖南电视剧
 http://42.49.189.17:9008/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="所有频道",湖南电视剧
+#EXTINF:-1 ,湖南电视剧
 http://118.253.0.237:2023/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="所有频道",湖南电视台
 http://118.253.0.237:2023/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
