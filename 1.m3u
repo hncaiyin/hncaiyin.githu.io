@@ -1,8 +1,16 @@
+湖南卫视FHD,http://175.11.193.156:7000/udp/239.76.245.115:1234
+湖南经视FHD,http://175.11.193.156:7000/udp/239.76.245.116:1234
+湖南都市FHD,http://175.11.193.156:7000/udp/239.76.245.117:1234
+湖南电视剧FHD,http://175.11.193.156:7000/udp/239.76.245.118:1234
+湖南电影FHD,http://175.11.193.156:7000/udp/239.76.245.119:1234
+湖南娱乐FHD,http://175.11.193.156:7000/udp/239.76.245.121:1234
+湖南国际FHD,http://175.11.193.156:7000/udp/239.76.245.124:1234
+湖南公共FHD,http://175.11.193.156:7000/udp/239.76.245.123:1234
 
 #EXTINF:-1 tvg-id="A01" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" 
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+http://175.11.193.156:7000/udp/239.76.245.115:1234
 #EXTINF:-1 tvg-id="A02" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" 
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+http://175.11.193.156:7000/udp/239.76.245.116:1234
 #EXTINF:-1 tvg-id="A03" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" 
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
 #EXTINF:-1 tvg-id="A04" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" 
