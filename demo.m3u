@@ -9,11 +9,11 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="A04" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
 http://42.49.189.17:9008/tsfile/live/1001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="A05" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" ,湖南经视
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI5MmUwYThhNjIxYzQ4YzM0MDA0ZDI3ZmJhN2I3YWYwJmVzPTE3MTAyNTkzOTcmdXVpZD03ZDY1YTk2OTkyODJjMGExNDczOGMxYjQyZjNjYzhkMy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
+http://42.49.189.17:9008/tsfile/live/1000_1.m3u8?key=txiptv
 #EXTINF:-1  tvg-id="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png" ,湖南爱晚
-http://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTZkYThiYWY2NDY5Zjc5YmEyY2ZhZmIzN2UyMmY4MDc0JmVzPTE3MTAyNjE1MDgmdXVpZD0zYTIwYThhY2Y4MDEwZjRiYmJlZDQxZTBjYzUyYjgwNi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGGMPP360.m3u8
+http://42.49.189.17:9008/tsfile/live/1003_1.m3u8?key=txiptv
 #EXTINF:-1  tvg-id="湖南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg" ,湖南娱乐频道
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWIyNGY2NGE5ZWI1NWVhMjYwZGNjMGQ1ZGY2NzQ4OTBiJmVzPTE3MTAyNTY4MDUmdXVpZD1iNDU5MjlmY2QxZjE0YTBhMjBlMmJmMTcxM2QxZjFlMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/HNYLMPP360.m3u8
+http://42.49.189.17:9008/tsfile/live/1005_1.m3u8?key=txiptv
 #EXTINF:-1  tvg-id="湖南国际频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614032623217.jpg" ,湖南国际频道
 http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNiMzBmOTIyZTJlZjE3ZGFlYmVlNDlkYTgxYmRiYmJmJmVzPTE3MTAyNjM0MDImdXVpZD04YWYwYmJiNTVlODUxOTAxYTUyODVjN2U4YjQwODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 #EXTINF:-1 tvg-id="dianshiju.hunan" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" ,湖南电视剧
