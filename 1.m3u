@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #央视高清/22个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" ,康巴卫视
-http://gonggong1.cdn.dingtoo.com/AppName/gonggong1.cdn.dingtoo.com_StreamName-1710606497104.ts?auth_key=1710605748-0-0-0c8fae0c6dd5e483826eae6936b9ef6b
+http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1710606993-0-0-0e693cea4e63c8c2a0f9e5c987aab17d
 #EXTINF:-1 tvg-id="A02" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" ,江西卫视
 http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1710605748-0-0-871a1b86d3ef7e2054828ecc3193fc65
 #EXTINF:-1 tvg-id="A03" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" ,凤凰资讯
