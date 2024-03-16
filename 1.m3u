@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="A01" tvg-name="康巴卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" ,康巴卫视
 http://zhonghe1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1710606993-0-0-0e693cea4e63c8c2a0f9e5c987aab17d
 #EXTINF:-1 tvg-id="A02" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" ,江西卫视
-http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1710605748-0-0-871a1b86d3ef7e2054828ecc3193fc65
+http://gonggong1.cdn.dingtoo.com/AppName/StreamName.m3u8?auth_key=1710607494-0-0-1e8ff8f926926df651b2567ab63bd4db
 #EXTINF:-1 tvg-id="A03" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" ,凤凰资讯
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="A04" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
