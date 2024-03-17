@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/hncaiyin/hncaiyin.githu.io/main/tu/1.png" ,怀化公共
 http://111.8.242.84:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,怀化公共
+#EXTINF:-1 ,怀化公共
 http://111.8.242.151:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/hncaiyin/hncaiyin.githu.io/main/tu/2.png" ,怀化新闻综合
 http://111.8.242.151:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,怀化新闻综合
+#EXTINF:-1 ,怀化新闻综合
 http://111.8.242.84:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" ,家庭影院
 http://111.8.242.151:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,家庭影院
+#EXTINF:-1 家庭影院
 http://111.8.242.84:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" ,CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
