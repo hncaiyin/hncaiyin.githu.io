@@ -16,17 +16,17 @@ http://175.0.50.196:8899/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.218.218.5:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="A05" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" ,湖南经视
-http://223.159.10.117:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://zteres.sn.chinamobile.com:6060/000000001000/6306119848317438256/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6306119848317438256
 #EXTINF:-1 ,湖南经视
 http://118.253.0.237:2023/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南经视
 http://118.253.0.237:2023/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A06" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png" ,湖南爱晚
-http://223.159.10.117:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+http://zteres.sn.chinamobile.com:6060/000000001000/6307875884530512195/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6307875884530512195
 #EXTINF:-1 tvg-id="A07" tvg-name="湖南娱乐" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg" ,湖南娱乐频道
-http://223.159.10.117:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+http://zteres.sn.chinamobile.com:6060/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="A08" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" ,湖南电视剧
-http://223.159.10.117:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+http://zteres.sn.chinamobile.com:6060/000000001000/8765482907954673867/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8765482907954673867
 #EXTINF:-1 tvg-id="A09" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" ,湖南卫视
 http://118.253.0.237:2023/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南卫视
