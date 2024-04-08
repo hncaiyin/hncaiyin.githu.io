@@ -5,7 +5,7 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="A02" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" ,江西卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="A03" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" ,凤凰资讯
-http://www.372583307.top:4022/udp/233.50.200.192:5140
+http://mywlkj.ddns.net:754/tv/hk.php?id=27
 #EXTINF:-1 tvg-id="A04" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
 #EXTINF:-1 ,湖南都市
