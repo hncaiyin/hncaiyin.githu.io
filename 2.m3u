@@ -32,9 +32,9 @@ http://222.241.145.143:8888/udp/239.76.253.101:9000
 http://222.185.245.194:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南卫视
 http://42.49.189.17:9008/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1, tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/hncaiyin/hncaiyin.githu.io/main/tu/1.png" ,怀化新闻综合高清
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/hncaiyin/hncaiyin.githu.io/main/tu/1.png" ,怀化新闻综合高清
 http://222.241.145.143:8888/udp/239.76.255.12:9000
-#EXTINF:-1, 怀化新闻综合高清
+#EXTINF:-1 ,怀化新闻综合高清
 http://222.241.145.143:8888/udp/239.76.248.12:1234
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" ,CCTV-1 综合
