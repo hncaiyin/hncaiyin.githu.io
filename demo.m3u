@@ -11,13 +11,13 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1,江西卫视高清
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" ,凤凰资讯
-http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1105_1.m3u8
+http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯1
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
 http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1092_1.m3u8
 #EXTINF:-1 ,湖南都市
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
+http://183.204.13.237/61.v.smtcdns.net/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
 #EXTINF:-1 ,湖南都市
 http://222.241.145.143:8888/udp/239.76.253.104:9000
 #EXTINF:-1 ,湖南都市
@@ -25,7 +25,7 @@ http://113.218.218.5:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" ,湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
 #EXTINF:-1 ,湖南经视
-http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+http://183.204.13.237/61.v.smtcdns.net/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
 #EXTINF:-1 ,湖南经视
 http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1000_1.m3u8
 #EXTINF:-1 ,湖南经视
