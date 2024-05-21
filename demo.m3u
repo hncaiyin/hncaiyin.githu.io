@@ -14,29 +14,29 @@ http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengsh
 #EXTINF:-1 ,凤凰资讯1
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001249/main.m3u8
+#EXTINF:-1 ,湖南都市
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+#EXTINF:-1 ,湖南都市
 http://178.157.60.73/proxy/1116439121/1116439121.m3u8
-#EXTINF:-1 ,湖南都市
-http://183.204.13.237/61.v.smtcdns.net/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
-#EXTINF:-1 ,湖南都市
-http://222.241.145.143:8888/udp/239.76.253.104:9000
 #EXTINF:-1 ,湖南都市
 http://113.218.218.5:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" ,湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
 #EXTINF:-1 ,湖南经视
-http://183.204.13.237/61.v.smtcdns.net/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
+http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 #EXTINF:-1 ,湖南经视
 http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1000_1.m3u8
 #EXTINF:-1 ,湖南经视
-http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1091_1.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png" ,湖南爱晚
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047425/main.m3u8
 #EXTINF:-1 tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125630263.jpg" ,湖南娱乐频道
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001248/main.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" ,湖南电视剧
-http://116.128.243.121:9901/tsfile/live/1004_1.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" ,湖南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
 #EXTINF:-1 ,湖南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
 #EXTINF:-1 ,湖南卫视
