@@ -14,7 +14,7 @@ http://cdn8.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 ,凤凰资讯1
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
-http://42.48.17.188:9901/tsfile/live/37218_1.m3u8?key=txiptv&playlive=1&authid=0
+http://118.248.168.142:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南都市
 http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 #EXTINF:-1 ,湖南都市
