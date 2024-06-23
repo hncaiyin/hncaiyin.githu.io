@@ -20,7 +20,8 @@ http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 ,湖南都市
 http://eeae33.netsite.cc/proxy/1116439121/1116439121.m3u8
 #EXTINF:-1 ,湖南都市
-http://124.228.160.126:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTVjNjE0ZjE0ODAwZjA0MDczYTIzZjE2M2Q3OTFhYzlkJmVzPTE3MTkxMzk1NDgmdXVpZD1jYmVmYjY5ZjI2ZmEwZTJhZTYzNDg1YTA0ODVhNTI4Zi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" ,湖南经视
 http://118.248.218.132:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南经视
