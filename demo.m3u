@@ -16,9 +16,9 @@ http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
 http://119.39.97.2:9002/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南都市
-http://124.228.160.94:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.218.229.25:8081/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南都市
-http://223.159.9.212:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+http://223.159.10.126:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,湖南都市
 http://119.39.97.2:9002/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 
