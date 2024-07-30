@@ -14,11 +14,11 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯1
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTQ0ZmEyODFhYWFlMjgyZDEyODk0ODk4ZGJmMjI2MTliJmVzPTE3MjIzMzE5MzkmdXVpZD0xNjhhMzQ1MmEwODgyNTliNDVhZGJjZmFlMjNiNjkwNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTg0NTU2MzZjMTFlNmViODdkMmI0MjM3ODFlMzdmOGQ1JmVzPTE3MjIzNjA3NTgmdXVpZD1jMjM5NjVlMWU0YmY5MGMyZDdiYTJiNzU3Y2M3YWMyOC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
 #EXTINF:-1 ,湖南都市
 http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 #EXTINF:-1 ,湖南都市
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTQ0ZmEyODFhYWFlMjgyZDEyODk0ODk4ZGJmMjI2MTliJmVzPTE3MjIzMzE5MzkmdXVpZD0xNjhhMzQ1MmEwODgyNTliNDVhZGJjZmFlMjNiNjkwNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南都市
 http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" ,湖南经视
@@ -55,15 +55,15 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" ,家庭影院
 http://221.232.172.125:1234/rtp/239.69.1.243:11100
 #EXTINF:-1 ,家庭影院
-http://222.241.145.143:8888/udp/239.76.252.241:9000
+http://123.10.79.77:808/hls/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" ,CHC动作电影
 http://171.125.90.86:6001/rtp/226.0.2.94:8012
 #EXTINF:-1 ,CHC动作电影
-http://222.241.145.143:8888/udp/239.76.252.243:9000
+http://123.10.79.77:808/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" ,CHC高清电影
 http://221.232.172.125:1234/rtp/239.69.1.241:11088
 #EXTINF:-1 ,CHC高清电影
-http://222.241.145.143:8888/udp/239.76.252.242:9000
+http://123.10.79.77:808/hls/98/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" ,超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" ,超级电视剧
