@@ -1,11 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV1" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV1.png",CCTV1
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn02.m3u8
-rtsp://115.153.254.81/PLTV/88888888/224/3221226825/59814584.smil
+http://124.228.160.169:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV3" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV3.png",CCTV3
-rtsp://115.153.254.81/PLTV/88888888/224/3221226930/65406412.smil
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV4" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV4.png",CCTV4
-rtsp://115.153.254.81/PLTV/88888888/224/3221226838/59814684.smil
+http://4eae7f.tv.netsite.cc/proxy/1116439121/1116439121.m3u8
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV5" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV5.png",CCTV5
 rtsp://115.153.254.81/PLTV/88888888/224/3221226907/65396401.smil
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV6" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV6.png",CCTV6
