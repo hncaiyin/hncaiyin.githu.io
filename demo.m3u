@@ -53,15 +53,15 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" ,CCTV-15 音乐
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" ,家庭影院
-http://221.232.172.125:1234/rtp/239.69.1.243:11100
+http://ha.fengying138.top:8888/udp/239.76.245.241:1234
 #EXTINF:-1 ,家庭影院
 http://123.10.79.77:808/hls/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" ,CHC动作电影
-http://171.125.90.86:6001/rtp/226.0.2.94:8012
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://123.10.79.77:808/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" ,CHC高清电影
-http://221.232.172.125:1234/rtp/239.69.1.241:11088
+http://ha.fengying138.top:8888/udp/239.76.245.242:1234
 #EXTINF:-1 ,CHC高清电影
 http://123.10.79.77:808/hls/98/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" ,超级电影
