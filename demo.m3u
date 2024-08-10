@@ -14,9 +14,9 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯1
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTdhNWQwOTIyMGExNjI1YWZjYWQ1YjAwYWQzZjQ4MjMzJmVzPTE3MjMyODk3NTMmdXVpZD01MjY1YWI2ZDA2NWE3MTUxNTMzNWM5ODc5NzhjYjU1Ny02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
-#EXTINF:-1 ,湖南都市
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
+#EXTINF:-1 ,湖南都市
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTM4NjY4OTEwMzFhNzU5MDhhZWJlYzNlNjYzMDJkOWI3JmVzPTE3MjMzMTg1NzEmdXVpZD1lMWU2NDdiZTUwYmU5NGQzYTdhNzM0YTUyM2RkZmUwZC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
 #EXTINF:-1 ,湖南都市
 http://175.8.213.198:8081/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南都市
