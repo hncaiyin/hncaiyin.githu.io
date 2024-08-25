@@ -6,9 +6,9 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1,康巴卫视1
 http://124.77.178.118:4022/udp/239.45.1.251:5140
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" ,江西卫视
-http://171.109.52.2:4022/udp/239.81.0.204:4056
-#EXTINF:-1,江西卫视高清
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1,江西卫视高清
+http://123.120.110.154:8686/rtp/239.3.1.123:8164
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" ,凤凰资讯
 https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 ,凤凰资讯1
@@ -27,8 +27,7 @@ http://119.39.97.2:9002/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" ,湖南卫视
-http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
-
+http://114.254.84.197:2222/rtp/239.3.1.132:8012
 #EXTINF:-1 ,湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 ,湖南卫视
