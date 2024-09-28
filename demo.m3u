@@ -16,7 +16,7 @@ http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 ,湖南都市
-http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE1NC45MS4zMi4yNDImcWlkPSZzPTQ4OTAwMDJhYmNiN2NjMjUxMzgwZmJlMjM3NzgzZDU5JmVzPTE3Mjc1MTYwNDMmdXVpZD0wNTU3MjQ2MDZhNTYzMTEyMmFmNjYyNGQxNjY2ZmI2Mi05YTViMjBmMiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE1NC45MS4zMi4yNDImcWlkPSZzPTBmOGU0ODE2YjA0MWMwNjA1MmI0YzBjM2Y1NzUwMzg1JmVzPTE3Mjc1NDQ4NTgmdXVpZD1kYjI1NjNjZTAzYjU1ODI0MDNkMjMxZGMwNGRjY2ZhMC05YTViMjBmMiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
 #EXTINF:-1 ,湖南都市
 http://dms.yryyj.site:8188/udp/239.76.245.117:1234
 #EXTINF:-1 ,湖南都市
