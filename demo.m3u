@@ -10,9 +10,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1,江西卫视高清
 http://buffaloft.ignorelist.com:8888/rtp/239.3.1.123:8164
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" ,凤凰资讯
-http://qwe.iptviptv.site:9694/hls/732/index.m3u8
+http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯1
-http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+http://php.iptviptv.site/iptv.php?id=fhzx
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 ,湖南都市
@@ -47,17 +47,17 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" ,CCTV-15 音乐
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" ,家庭影院
-http://qwe.iptviptv.site:9694/hls/700/index.m3u8
+http://php.iptviptv.site/iptv.php?id=chcjiat66
 #EXTINF:-1 ,家庭影院
 http://avd.iptviptv.site:9694/hls/700/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" ,CHC动作电影
-http://qwe.iptviptv.site:9694/hls/701/index.m3u8
+http://php.iptviptv.site/iptv.php?id=chdzc
 #EXTINF:-1 ,CHC动作电影
 http://avd.iptviptv.site:9694/hls/701/index.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" ,CHC影迷电影
 http://qwe.iptviptv.site:9694/hls/702/index.m3u8
 #EXTINF:-1 ,CHC影迷电影
-http://123.10.79.77:808/hls/98/index.m3u8
+http://php.iptviptv.site/iptv.php?id=chcmy
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" ,超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" ,超级电视剧
