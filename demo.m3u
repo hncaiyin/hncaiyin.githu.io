@@ -2,25 +2,25 @@
 #央视高清/22个频道
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" ,康巴卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$720x576
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225660/2.m3u8
 #EXTINF:-1,康巴卫视1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225660/2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" ,江西卫视
-http://219.159.194.54:8181/tsfile/live/0138_1.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1,江西卫视1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" ,凤凰资讯
-,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+http://122.224.232.218:8888/rtp/233.50.200.192:5140$LR•IPV4『线路9』
 #EXTINF:-1 ,凤凰资讯1
-https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+http://php.iptviptv.site/iptv.php?id=fhzx
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" ,湖南都市
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 ,湖南都市
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3NS4xNzguNDIuMTA5JnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPTdmZWI1MGRjNGY3ODZjMzIwZTFlM2RlODRmMGE5OGY0JnVpZD0mdXVpZD0xNGRhZWU0M2E0NzQzMmNiMWI4NTQ4NTg1MDM4YzRiZS1hZmIyMmE2ZCZ2PTImYXM9MCZlcz0xNzMwODM0MTcw/HNDSMPP360.m3u8
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9d3NfcGhvbmUzJnM9YWI1NWFkNDllZmM5YTY1YTg0MmU0NmY3ZGE5NWE4ZjAmdWlkPSZ1dWlkPWY3Zjc1MWZlNzdlYjQ1ZjZiMmM5ZTBlNDg2ZTMxNzY5LTY3MjdlMjY0JnY9MiZhcz0wJmVzPTE3MzA4MDQwMTg,/HNDSMPP360.m3u8
 #EXTINF:-1 ,湖南都市
-http://222.243.221.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.230.56.126:55555/udp/239.76.253.104:9000
 #EXTINF:-1 ,湖南都市
-http://vod.hnqczh.cn:808/hls/3/index.m3u8
+http://116.128.224.11:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" ,湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 ,湖南卫视
@@ -29,13 +29,13 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://223.151.51.74:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" ,CCTV-1 综合
-http://1732e975z9.zicp.fun:8082/hls/1/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png" ,CCTV-9 纪录
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png" ,CCTV-10 科教
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV12.png" ,CCTV-12 社会与法
-http://dd.ddzb.fun/php/migu.php?id=cctv12
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" ,CCTV-5 体育
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" ,CCTV-6 电影
@@ -53,8 +53,7 @@ http://avd.iptviptv.site:9694/hls/700/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" ,CHC动作电影
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000106/index.m3u8$LR•IPV6『线路2』
 
-#EXTINF:-1 ,CHC动作电影
-http://[2409:8087:1a01:df::4021]/TVOD/88888888/224/3221225555/main.m3u8$LR•IPV6『线路3』
+#EXTINF:-1 ,CHC动作电影http://[2409:8087:1a01:df::4021]/TVOD/88888888/224/3221225555/main.m3u8$LR•IPV6『线路3』
 
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" ,CHC影迷电影
 http://qwe.iptviptv.site:9694/hls/702/index.m3u8
