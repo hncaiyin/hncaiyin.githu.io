@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" ,康巴卫视
 http://[2409:8087:5e20:24::d]:6610/000000001000/1000000005000266002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&stbId=3
 #EXTINF:-1,康巴卫视1
-http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
+http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" ,江西卫视
 http://[2409:8087:5e20:24::d]:6610/000000001000/1000000001000013731/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=3
 #EXTINF:-1,江西卫视1
